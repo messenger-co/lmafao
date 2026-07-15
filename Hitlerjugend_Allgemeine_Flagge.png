@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="1000" height="600"><path fill="#D00" d="M0 0H1000V600H0z"/><path fill="#fff" d="M0 200H1000V400H0z"/><path fill="#fff" d="M 250,300 500,50 750,300 500,550 z"/><path stroke-width="66" stroke="#000" fill="none" transform="rotate(45 500,300)" d="M 665,168 h -165 v 264 h -165 M 368,135 v 165 h 264 v 165"/></svg>
